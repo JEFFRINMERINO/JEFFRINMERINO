@@ -54,141 +54,61 @@ I enjoy designing scalable AI applications from model development to production 
 
 ---
 
-# 🛠️ Tech Ecosystem
+## 🛠 Tech Stack
 
-## 💻 Programming Languages
+### 💻 Languages
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,sql,bash,r,matlab" />
 </p>
 
----
-
-## 🤖 Artificial Intelligence & Machine Learning
+### 🤖 AI Ecosystem
 <p align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/RDKit-0B6FA4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LIME-0A84FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Optuna-7D4698?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Albumentations-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-006400?style=flat-square"/>
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square"/>
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square"/>
+<img src="https://img.shields.io/badge/RDKit-0B6FA4?style=flat-square"/>
+<img src="https://img.shields.io/badge/SHAP-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/LIME-0A84FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Optuna-7D4698?style=flat-square"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/LlamaIndex-7A4CEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/vLLM-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square"/>
 </p>
 
----
-
-## 🧠 LLM & Generative AI
+### ⚙️ Engineering Ecosystem
 <p align="left">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LlamaIndex-7A4CEB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_DB-009688?style=for-the-badge"/>
-</p>
-
----
-
-## 🌐 Backend Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express" />
-</p>
-
----
-
-## 🎨 Frontend Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,streamlit" />
-</p>
-
----
-
-## 🗄️ Databases
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,firebase,supabase" />
-</p>
-
----
-
-## ☁️ Cloud • DevOps • MLOps
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,react,nextjs,tailwind,streamlit,postgres,mongodb,mysql,sqlite,redis,firebase,supabase,docker,kubernetes,aws,gcp,azure,git,github,linux,vscode,postman,jupyter,anaconda,pycharm,arduino,raspberrypi" />
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square"/>
+<img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dask-FC6E00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square"/>
 </p>
 
----
-
-## ⚡ Distributed Computing & Performance
-<p align="left">
-<img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dask-FC6E00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 Data Science & Visualization
-<p align="left">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-5B8FA8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
-</p>
-
----
-
-## 🤖 Embedded AI & IoT
-<p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ESP8266-3C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Edge_AI-00C853?style=for-the-badge"/>
-</p>
-
----
-
-## 🔧 Development Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,postman,anaconda,pycharm,jupyter,idea" />
-</p>
-
----
-
-## 🏗️ Software Engineering
-<p align="left">
-<img src="https://img.shields.io/badge/Microservices-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WebSockets-7B1FA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OAuth2-FF9800?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System_Design-37474F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design_Patterns-546E7A?style=for-the-badge"/>
-</p>
+### 🚀 Currently Exploring
+```text
+Multi-Agent AI • MCP • Agentic AI • Federated Learning • Edge AI • Robotics • HPC • Distributed AI
+```
