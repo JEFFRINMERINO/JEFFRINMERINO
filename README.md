@@ -51,3 +51,85 @@ I enjoy designing scalable AI applications from model development to production 
 - Developing AI systems for healthcare
 - Exploring distributed AI and GPU computing
 - Creating open-source AI projects
+
+---
+
+# 🛠️ Tech Ecosystem
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql" />
+</p>
+
+---
+
+### 🤖 Artificial Intelligence & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDKit-0B6FA4?style=for-the-badge"/>
+</p>
+
+---
+
+### 🧠 LLM & Generative AI
+<p align="left">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-4B8BBE?style=for-the-badge"/>
+</p>
+
+---
+
+### 🌐 Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+</p>
+
+---
+
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+---
+
+### ☁️ Cloud • DevOps • MLOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚡ Distributed Computing & Performance
+<p align="left">
+  <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge"/>
+</p>
+
+---
+
+### 🛠️ Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+</p>
